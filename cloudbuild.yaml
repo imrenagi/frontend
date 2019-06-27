@@ -1,0 +1,6 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/imre-experiment/frontend', '.']
+  images: ['gcr.io/imre-experiment/frontend']
+- name: 'gcr.io/cloud-builders/gcloud'
+  args: ['beta', 'run', 'deploy', '--image', 'gcr.io/imre-experiment/frontend', '--platform', 'managed']
