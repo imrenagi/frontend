@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        frontend
+        LAMPUNG
       </h1>
       <h2 class="subtitle">
-        demo next extended
+        GDG X TEKNOKRAT
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">
