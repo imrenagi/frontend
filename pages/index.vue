@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        LAMPUNG
+        GDG SEMARANG
       </h1>
       <h2 class="subtitle">
-        GDG X TEKNOKRAT
+        IO EXTENDED 2019
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">
