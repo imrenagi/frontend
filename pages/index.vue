@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        PPL UI 2020
+        Konpeti 2020
       </h1>
       <h2 class="subtitle">
         JAKARTA
